@@ -1,0 +1,11 @@
+C:\Users\firtishqulu\Desktop\UDEMY PROJE\C# Yapboz by Murad Salmanov\C# Yapboz by Murad Salmanov\bin\Debug\C# Yapboz by Murad Salmanov.exe.config
+C:\Users\firtishqulu\Desktop\UDEMY PROJE\C# Yapboz by Murad Salmanov\C# Yapboz by Murad Salmanov\bin\Debug\C# Yapboz by Murad Salmanov.exe
+C:\Users\firtishqulu\Desktop\UDEMY PROJE\C# Yapboz by Murad Salmanov\C# Yapboz by Murad Salmanov\bin\Debug\C# Yapboz by Murad Salmanov.pdb
+C:\Users\firtishqulu\Desktop\UDEMY PROJE\C# Yapboz by Murad Salmanov\C# Yapboz by Murad Salmanov\obj\Debug\C# Yapboz by Murad Salmanov.csproj.AssemblyReference.cache
+C:\Users\firtishqulu\Desktop\UDEMY PROJE\C# Yapboz by Murad Salmanov\C# Yapboz by Murad Salmanov\obj\Debug\C# Yapboz by Murad Salmanov.csproj.SuggestedBindingRedirects.cache
+C:\Users\firtishqulu\Desktop\UDEMY PROJE\C# Yapboz by Murad Salmanov\C# Yapboz by Murad Salmanov\obj\Debug\C__Yapboz_by_Murad_Salmanov.Form1.resources
+C:\Users\firtishqulu\Desktop\UDEMY PROJE\C# Yapboz by Murad Salmanov\C# Yapboz by Murad Salmanov\obj\Debug\C__Yapboz_by_Murad_Salmanov.Properties.Resources.resources
+C:\Users\firtishqulu\Desktop\UDEMY PROJE\C# Yapboz by Murad Salmanov\C# Yapboz by Murad Salmanov\obj\Debug\C# Yapboz by Murad Salmanov.csproj.GenerateResource.cache
+C:\Users\firtishqulu\Desktop\UDEMY PROJE\C# Yapboz by Murad Salmanov\C# Yapboz by Murad Salmanov\obj\Debug\C# Yapboz by Murad Salmanov.csproj.CoreCompileInputs.cache
+C:\Users\firtishqulu\Desktop\UDEMY PROJE\C# Yapboz by Murad Salmanov\C# Yapboz by Murad Salmanov\obj\Debug\C# Yapboz by Murad Salmanov.exe
+C:\Users\firtishqulu\Desktop\UDEMY PROJE\C# Yapboz by Murad Salmanov\C# Yapboz by Murad Salmanov\obj\Debug\C# Yapboz by Murad Salmanov.pdb
